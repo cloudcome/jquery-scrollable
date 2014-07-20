@@ -1,0 +1,25 @@
+{
+  "name": "jquery-scrollable",
+  "version": "1.0.1",
+  "description": "jquery.fn.scrollable 无限滚动",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "scrollable"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-scrollable"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-scrollable.js",
+    "dependencies": {}
+  }
+}
